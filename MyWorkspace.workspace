@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="MyWorkspace" Database="" Version="10000">
+  <Project Name="project1" Path="project1/project1.project" Active="No"/>
+  <Project Name="Project2" Path="Project2/Project2.project" Active="No"/>
+  <Project Name="Project3" Path="Project3/Project3.project" Active="No"/>
+  <Project Name="FirstProgram" Path="FirstProgram/FirstProgram.project" Active="No"/>
+  <Project Name="CompilerErrors" Path="CompilerErrors/CompilerErrors.project" Active="No"/>
+  <Project Name="CompilerWarnings" Path="CompilerWarnings/CompilerWarnings.project" Active="No"/>
+  <Project Name="LinkerError" Path="LinkerError/LinkerError.project" Active="No"/>
+  <Project Name="nameSpace" Path="nameSpace/nameSpace.project" Active="No"/>
+  <Project Name="Challenge1" Path="Challenge1/Challenge1.project" Active="No"/>
+  <Project Name="Comments" Path="Comments/Comments.project" Active="No"/>
+  <Project Name="Challenge2" Path="Challenge2/Challenge2.project" Active="No"/>
+  <Project Name="DeclaringVariables" Path="DeclaringVariables/DeclaringVariables.project" Active="No"/>
+  <Project Name="InitializingVariables" Path="InitializingVariables/InitializingVariables.project" Active="No"/>
+  <Project Name="Challenge3" Path="Challenge3/Challenge3.project" Active="No"/>
+  <Project Name="GlobalVariables" Path="GlobalVariables/GlobalVariables.project" Active="No"/>
+  <Project Name="PrimitiveTypes" Path="PrimitiveTypes/PrimitiveTypes.project" Active="No"/>
+  <Project Name="SizeofOperator" Path="SizeofOperator/SizeofOperator.project" Active="No"/>
+  <Project Name="ConstVariable" Path="ConstVariable/ConstVariable.project" Active="No"/>
+  <Project Name="Challenge4" Path="Challenge4/Challenge4.project" Active="No"/>
+  <Project Name="Challenge5" Path="Challenge5/Challenge5.project" Active="No"/>
+  <Project Name="Arrays" Path="Arrays/Arrays.project" Active="No"/>
+  <Project Name="Array_challenge" Path="Array_challenge/Array_challenge.project" Active="No"/>
+  <Project Name="MultiDim_Arrays" Path="MultiDim_Arrays/MultiDim_Arrays.project" Active="No"/>
+  <Project Name="Vectors1" Path="Vectors1/Vectors1.project" Active="No"/>
+  <Project Name="Vectors" Path="Vectors/Vectors.project" Active="No"/>
+  <Project Name="Vector_Challenge" Path="Vector_Challenge/Vector_Challenge.project" Active="No"/>
+  <Project Name="AssignmentOperator" Path="AssignmentOperator/AssignmentOperator.project" Active="No"/>
+  <Project Name="Euros" Path="Euros/Euros.project" Active="No"/>
+  <Project Name="horsepower_KW_HP" Path="horsepower_KW_HP/horsepower_KW_HP.project" Active="No"/>
+  <Project Name="IncrementDecrementOperators" Path="IncrementDecrementOperators/IncrementDecrementOperators.project" Active="No"/>
+  <Project Name="MixedExpressions" Path="MixedExpressions/MixedExpressions.project" Active="No"/>
+  <Project Name="EqualityOperators" Path="EqualityOperators/EqualityOperators.project" Active="No"/>
+  <Project Name="RelationalOperators" Path="RelationalOperators/RelationalOperators.project" Active="No"/>
+  <Project Name="LogicalOperators" Path="LogicalOperators/LogicalOperators.project" Active="No"/>
+  <Project Name="OperatorPrecedence" Path="OperatorPrecedence/OperatorPrecedence.project" Active="No"/>
+  <Project Name="FahrenheitToCelsius" Path="FahrenheitToCelsius/FahrenheitToCelsius.project" Active="No"/>
+  <Project Name="Challenge6" Path="Challenge6/Challenge6.project" Active="No"/>
+  <Project Name="TrueOrFalse" Path="TrueOrFalse/TrueOrFalse.project" Active="No"/>
+  <Project Name="IfStatements1" Path="IfStatements1/IfStatements1.project" Active="No"/>
+  <Project Name="IfStatement2" Path="IfStatement2/IfStatement2.project" Active="No"/>
+  <Project Name="IfStatement3" Path="IfStatement3/IfStatement3.project" Active="No"/>
+  <Project Name="NestedIfStatement" Path="NestedIfStatement/NestedIfStatement.project" Active="No"/>
+  <Project Name="ShippingCalculator" Path="ShippingCalculator/ShippingCalculator.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="project1" ConfigName="Debug"/>
+      <Project Name="Project2" ConfigName="Debug"/>
+      <Project Name="Project3" ConfigName="Debug"/>
+      <Project Name="FirstProgram" ConfigName="Debug"/>
+      <Project Name="CompilerErrors" ConfigName="Debug"/>
+      <Project Name="CompilerWarnings" ConfigName="Debug"/>
+      <Project Name="LinkerError" ConfigName="Debug"/>
+      <Project Name="nameSpace" ConfigName="Debug"/>
+      <Project Name="Challenge1" ConfigName="Debug"/>
+      <Project Name="Comments" ConfigName="Debug"/>
+      <Project Name="Challenge2" ConfigName="Debug"/>
+      <Project Name="DeclaringVariables" ConfigName="Debug"/>
+      <Project Name="InitializingVariables" ConfigName="Debug"/>
+      <Project Name="Challenge3" ConfigName="Debug"/>
+      <Project Name="GlobalVariables" ConfigName="Debug"/>
+      <Project Name="PrimitiveTypes" ConfigName="Debug"/>
+      <Project Name="SizeofOperator" ConfigName="Debug"/>
+      <Project Name="ConstVariable" ConfigName="Debug"/>
+      <Project Name="Challenge4" ConfigName="Debug"/>
+      <Project Name="Challenge5" ConfigName="Debug"/>
+      <Project Name="Arrays" ConfigName="Debug"/>
+      <Project Name="Array_challenge" ConfigName="Debug"/>
+      <Project Name="MultiDim_Arrays" ConfigName="Debug"/>
+      <Project Name="Vectors1" ConfigName="Debug"/>
+      <Project Name="Vectors" ConfigName="Debug"/>
+      <Project Name="Vector_Challenge" ConfigName="Debug"/>
+      <Project Name="AssignmentOperator" ConfigName="Debug"/>
+      <Project Name="Euros" ConfigName="Debug"/>
+      <Project Name="horsepower_KW_HP" ConfigName="Debug"/>
+      <Project Name="IncrementDecrementOperators" ConfigName="Debug"/>
+      <Project Name="MixedExpressions" ConfigName="Debug"/>
+      <Project Name="EqualityOperators" ConfigName="Debug"/>
+      <Project Name="RelationalOperators" ConfigName="Debug"/>
+      <Project Name="LogicalOperators" ConfigName="Debug"/>
+      <Project Name="OperatorPrecedence" ConfigName="Debug"/>
+      <Project Name="FahrenheitToCelsius" ConfigName="Debug"/>
+      <Project Name="Challenge6" ConfigName="Debug"/>
+      <Project Name="TrueOrFalse" ConfigName="Debug"/>
+      <Project Name="IfStatements1" ConfigName="Debug"/>
+      <Project Name="IfStatement2" ConfigName="Debug"/>
+      <Project Name="IfStatement3" ConfigName="Debug"/>
+      <Project Name="NestedIfStatement" ConfigName="Debug"/>
+      <Project Name="ShippingCalculator" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="project1" ConfigName="Release"/>
+      <Project Name="Project2" ConfigName="Release"/>
+      <Project Name="Project3" ConfigName="Release"/>
+      <Project Name="FirstProgram" ConfigName="Release"/>
+      <Project Name="CompilerErrors" ConfigName="Release"/>
+      <Project Name="CompilerWarnings" ConfigName="Release"/>
+      <Project Name="LinkerError" ConfigName="Release"/>
+      <Project Name="nameSpace" ConfigName="Release"/>
+      <Project Name="Challenge1" ConfigName="Release"/>
+      <Project Name="Comments" ConfigName="Release"/>
+      <Project Name="Challenge2" ConfigName="Release"/>
+      <Project Name="DeclaringVariables" ConfigName="Release"/>
+      <Project Name="InitializingVariables" ConfigName="Release"/>
+      <Project Name="Challenge3" ConfigName="Release"/>
+      <Project Name="GlobalVariables" ConfigName="Release"/>
+      <Project Name="PrimitiveTypes" ConfigName="Release"/>
+      <Project Name="SizeofOperator" ConfigName="Release"/>
+      <Project Name="ConstVariable" ConfigName="Release"/>
+      <Project Name="Challenge4" ConfigName="Release"/>
+      <Project Name="Challenge5" ConfigName="Release"/>
+      <Project Name="Arrays" ConfigName="Release"/>
+      <Project Name="Array_challenge" ConfigName="Release"/>
+      <Project Name="MultiDim_Arrays" ConfigName="Release"/>
+      <Project Name="Vectors1" ConfigName="Release"/>
+      <Project Name="Vectors" ConfigName="Release"/>
+      <Project Name="Vector_Challenge" ConfigName="Release"/>
+      <Project Name="AssignmentOperator" ConfigName="Release"/>
+      <Project Name="Euros" ConfigName="Release"/>
+      <Project Name="horsepower_KW_HP" ConfigName="Release"/>
+      <Project Name="IncrementDecrementOperators" ConfigName="Release"/>
+      <Project Name="MixedExpressions" ConfigName="Release"/>
+      <Project Name="EqualityOperators" ConfigName="Release"/>
+      <Project Name="RelationalOperators" ConfigName="Release"/>
+      <Project Name="LogicalOperators" ConfigName="Release"/>
+      <Project Name="OperatorPrecedence" ConfigName="Release"/>
+      <Project Name="FahrenheitToCelsius" ConfigName="Release"/>
+      <Project Name="Challenge6" ConfigName="Release"/>
+      <Project Name="TrueOrFalse" ConfigName="Release"/>
+      <Project Name="IfStatements1" ConfigName="Release"/>
+      <Project Name="IfStatement2" ConfigName="Release"/>
+      <Project Name="IfStatement3" ConfigName="Release"/>
+      <Project Name="NestedIfStatement" ConfigName="Release"/>
+      <Project Name="ShippingCalculator" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
