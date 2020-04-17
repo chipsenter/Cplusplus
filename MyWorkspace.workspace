@@ -42,7 +42,15 @@
   <Project Name="IfStatement2" Path="IfStatement2/IfStatement2.project" Active="No"/>
   <Project Name="IfStatement3" Path="IfStatement3/IfStatement3.project" Active="No"/>
   <Project Name="NestedIfStatement" Path="NestedIfStatement/NestedIfStatement.project" Active="No"/>
-  <Project Name="ShippingCalculator" Path="ShippingCalculator/ShippingCalculator.project" Active="Yes"/>
+  <Project Name="ShippingCalculator" Path="ShippingCalculator/ShippingCalculator.project" Active="No"/>
+  <Project Name="Challenge7" Path="Challenge7/Challenge7.project" Active="No"/>
+  <Project Name="Switch1" Path="Switch1/Switch1.project" Active="No"/>
+  <Project Name="SwitchEnum" Path="SwitchEnum/SwitchEnum.project" Active="No"/>
+  <Project Name="SwitchChallenge" Path="SwitchChallenge/SwitchChallenge.project" Active="No"/>
+  <Project Name="ConditionalOperator" Path="ConditionalOperator/ConditionalOperator.project" Active="No"/>
+  <Project Name="forLoop1" Path="forLoop1/forLoop1.project" Active="No"/>
+  <Project Name="Lindstrom_Budget" Path="Lindstrom_Budget/Lindstrom_Budget.project" Active="No"/>
+  <Project Name="MilesToKm" Path="MilesToKm/MilesToKm.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -89,6 +97,14 @@
       <Project Name="IfStatement3" ConfigName="Debug"/>
       <Project Name="NestedIfStatement" ConfigName="Debug"/>
       <Project Name="ShippingCalculator" ConfigName="Debug"/>
+      <Project Name="Challenge7" ConfigName="Debug"/>
+      <Project Name="Switch1" ConfigName="Debug"/>
+      <Project Name="SwitchEnum" ConfigName="Debug"/>
+      <Project Name="SwitchChallenge" ConfigName="Debug"/>
+      <Project Name="ConditionalOperator" ConfigName="Debug"/>
+      <Project Name="forLoop1" ConfigName="Debug"/>
+      <Project Name="Lindstrom_Budget" ConfigName="Debug"/>
+      <Project Name="MilesToKm" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -135,6 +151,14 @@
       <Project Name="IfStatement3" ConfigName="Release"/>
       <Project Name="NestedIfStatement" ConfigName="Release"/>
       <Project Name="ShippingCalculator" ConfigName="Release"/>
+      <Project Name="Challenge7" ConfigName="Release"/>
+      <Project Name="Switch1" ConfigName="Release"/>
+      <Project Name="SwitchEnum" ConfigName="Release"/>
+      <Project Name="SwitchChallenge" ConfigName="Release"/>
+      <Project Name="ConditionalOperator" ConfigName="Release"/>
+      <Project Name="forLoop1" ConfigName="Release"/>
+      <Project Name="Lindstrom_Budget" ConfigName="Release"/>
+      <Project Name="MilesToKm" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

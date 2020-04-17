@@ -15,7 +15,7 @@ int main() {
     cin >> euros;
     dollars = euros * usd_per_eur;
     
-    cout << euros << " euros is equivalent to " << dollars << endl;
+    cout << euros << " euros is equivalent to " << dollars << " dollars."<< endl;
     
     cout << endl;
     return 0;

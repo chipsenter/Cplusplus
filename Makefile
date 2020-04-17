@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ NestedIfStatement - Debug ]----------"
-	@cd "NestedIfStatement" && "$(MAKE)" -f  "NestedIfStatement.mk"
+	@echo "----------Building project:[ MilesToKm - Debug ]----------"
+	@cd "MilesToKm" && "$(MAKE)" -f  "MilesToKm.mk"
 clean:
-	@echo "----------Cleaning project:[ NestedIfStatement - Debug ]----------"
-	@cd "NestedIfStatement" && "$(MAKE)" -f  "NestedIfStatement.mk" clean
+	@echo "----------Cleaning project:[ MilesToKm - Debug ]----------"
+	@cd "MilesToKm" && "$(MAKE)" -f  "MilesToKm.mk" clean
